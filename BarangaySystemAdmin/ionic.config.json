@@ -1,0 +1,7 @@
+{
+  "name": "BarangaySystemAdmin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
